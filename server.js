@@ -1,5 +1,4 @@
 const path = require('path')
-
 const dir = path.join(__dirname)
 
 process.env.NODE_ENV = 'production'
